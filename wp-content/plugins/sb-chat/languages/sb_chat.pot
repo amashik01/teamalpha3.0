@@ -1,0 +1,376 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SB Chat\n"
+"POT-Creation-Date: 2023-05-23 16:56+0500\n"
+"PO-Revision-Date: 2023-05-23 16:55+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sbchat.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/templates/conversations.php:46 includes/page-template/index.php:18
+msgid "All Conversations"
+msgstr ""
+
+#: admin/templates/conversations.php:102 admin/templates/conversations.php:173
+#: includes/page-template/index.php:81 includes/page-template/index.php:151
+#: includes/utilities.php:928 includes/utilities.php:955
+msgid "User has been removed"
+msgstr ""
+
+#: admin/templates/conversations.php:148 includes/page-template/index.php:128
+msgid "No Message found."
+msgstr ""
+
+#: admin/templates/conversations.php:193
+msgid "Unblock"
+msgstr ""
+
+#: admin/templates/conversations.php:196
+msgid "Block"
+msgstr ""
+
+#: admin/templates/conversations.php:199 admin/templates/conversations.php:200
+msgid "Are You Sure?"
+msgstr ""
+
+#: admin/templates/conversations.php:199 includes/page-template/index.php:170
+#: includes/utilities.php:1011
+msgid "Delete"
+msgstr ""
+
+#: admin/templates/conversations.php:201 includes/page-template/index.php:171
+msgid "Conversation is removed"
+msgstr ""
+
+#: helpers/date_time.php:41
+msgid "second"
+msgstr ""
+
+#: helpers/date_time.php:42
+msgid "minute"
+msgstr ""
+
+#: helpers/date_time.php:43
+msgid "hour"
+msgstr ""
+
+#: helpers/date_time.php:44
+msgid "day"
+msgstr ""
+
+#: helpers/date_time.php:45
+msgid "month"
+msgstr ""
+
+#: helpers/date_time.php:46
+msgid "year"
+msgstr ""
+
+#: helpers/date_time.php:59
+msgid " ago"
+msgstr ""
+
+#: helpers/date_time.php:63
+msgid "s ago"
+msgstr ""
+
+#: includes/page-template/index.php:170 includes/utilities.php:1011
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: includes/sb-chat-temp-class.php:21
+msgid "SB Chat Dashboard"
+msgstr ""
+
+#: includes/settings.php:85
+msgid "Settings"
+msgstr ""
+
+#: includes/settings.php:142
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/settings.php:143
+msgid "Here you can customize your chat settings."
+msgstr ""
+
+#: includes/settings.php:147
+msgid "SbChat"
+msgstr ""
+
+#: includes/settings.php:148
+msgid "Use these options to completely stop/start the chat."
+msgstr ""
+
+#: includes/settings.php:151 includes/settings.php:162
+#: includes/settings.php:181
+msgid "Disable"
+msgstr ""
+
+#: includes/settings.php:152 includes/settings.php:163
+#: includes/settings.php:182
+msgid "Enable"
+msgstr ""
+
+#: includes/settings.php:158 includes/settings.php:242
+msgid "Notifications"
+msgstr ""
+
+#: includes/settings.php:159
+msgid "Turn On messages notifications."
+msgstr ""
+
+#: includes/settings.php:169
+msgid "Notification time to refresh"
+msgstr ""
+
+#: includes/settings.php:170
+msgid "Time should be in Seconds. 1 Minute = 60 Seconds. Minimum 5sec"
+msgstr ""
+
+#: includes/settings.php:173
+msgid "5"
+msgstr ""
+
+#: includes/settings.php:177
+msgid "Bad Words Filter"
+msgstr ""
+
+#: includes/settings.php:178
+msgid "Use these options to enable or disable bad words filters."
+msgstr ""
+
+#: includes/settings.php:190
+msgid "Bad Words"
+msgstr ""
+
+#: includes/settings.php:192
+msgid "comma separated"
+msgstr ""
+
+#: includes/settings.php:193
+msgid "word1,word2"
+msgstr ""
+
+#: includes/settings.php:194
+msgid ""
+"These words will be removed from all Titles and Descriptions. Please be "
+"carefull while adding words. if you enter space here then it will remove "
+"space between works with provided word as well."
+msgstr ""
+
+#: includes/settings.php:202 includes/settings.php:204
+msgid "Bad Words Replace Word"
+msgstr ""
+
+#: includes/settings.php:205
+msgid ""
+"This words will be replace with above bad words list from AD Title and "
+"Description"
+msgstr ""
+
+#: includes/settings.php:212
+msgid "Dashboard Page"
+msgstr ""
+
+#: includes/settings.php:213
+msgid "Select the dashboard page for chat messenger."
+msgstr ""
+
+#: includes/settings.php:220
+msgid "Allowed MIME Types"
+msgstr ""
+
+#: includes/settings.php:221
+msgid "Restrict file uploads to only specific file extensions."
+msgstr ""
+
+#: includes/settings.php:228
+msgid "Max. Files Upload"
+msgstr ""
+
+#: includes/settings.php:234
+msgid "Max. File Upload Size (in KBs)"
+msgstr ""
+
+#: includes/settings.php:243
+msgid "Turn on notifications for email."
+msgstr ""
+
+#: includes/settings.php:247
+msgid "Send Unread Notifications"
+msgstr ""
+
+#: includes/settings.php:248
+msgid ""
+"Notifications for unread messages will be sent to users after every 'x' "
+"hours. For better performance, avoid any value less than 6."
+msgstr ""
+
+#: includes/settings.php:251
+msgid "e.g. 6 hours"
+msgstr ""
+
+#: includes/settings.php:255
+msgid "Unread Messages Email Template"
+msgstr ""
+
+#: includes/settings.php:523
+msgid "SbChat Settings"
+msgstr ""
+
+#: includes/settings.php:524
+msgid ""
+"Sb Chat is a WordPress plugin based on Ajax Chat system where buyers and "
+"seller can communicate with each other."
+msgstr ""
+
+#: includes/utilities.php:93
+msgid "You can not send message to yourself!"
+msgstr ""
+
+#: includes/utilities.php:146
+msgid "Send message to"
+msgstr ""
+
+#: includes/utilities.php:148
+msgid "Write message here"
+msgstr ""
+
+#: includes/utilities.php:152
+msgid "Send Message"
+msgstr ""
+
+#: includes/utilities.php:200
+msgid "You must be logged in to send this message!"
+msgstr ""
+
+#: includes/utilities.php:207
+msgid "Conversation is flawed. No known recipient found!"
+msgstr ""
+
+#: includes/utilities.php:211
+msgid "Sorry you can not send message , please contact site admin"
+msgstr ""
+
+#: includes/utilities.php:217
+msgid "Message cannot be empty!"
+msgstr ""
+
+#: includes/utilities.php:1048
+msgid "No Messages Found"
+msgstr ""
+
+#: includes/utilities.php:1062
+msgid "Conversation is deleted"
+msgstr ""
+
+#: includes/utilities.php:1123
+msgid ""
+"Sorry, only JPG, JPEG, PNG, docx, pptx, xlsx, pdf and zip files are allowed."
+msgstr ""
+
+#: includes/utilities.php:1129
+msgid "Max allowd attachment size is "
+msgstr ""
+
+#: includes/utilities.php:1150
+msgid "Attachments uploaded"
+msgstr ""
+
+#: includes/utilities.php:1163
+msgid "Attachment deleted"
+msgstr ""
+
+#: includes/utilities.php:1167
+msgid "Error!!! attachment is not deleted"
+msgstr ""
+
+#: models/crons.php:10
+msgid "SBChat Cron Duration"
+msgstr ""
+
+#: models/users.php:5
+msgid "The request sent is invalid."
+msgstr ""
+
+#: models/users.php:8
+msgid "No search term provided."
+msgstr ""
+
+#: models/users.php:42
+msgid "No users found."
+msgstr ""
+
+#: sbchat.php:196
+msgid "No plugins found for the current installation."
+msgstr ""
+
+#: sbchat.php:202
+msgid "No active plugins found for the current installation."
+msgstr ""
+
+#: sbchat.php:210
+msgid "SBChat plugin is installed and active."
+msgstr ""
+
+#: sbchat.php:216
+msgid ""
+"SBChat plugin is not installed or inactive on the current installation. "
+"Kindly, install or activate it to procees further."
+msgstr ""
+
+#: sbchat.php:231
+msgid ""
+"Your account has been blocked by  admin. Please contact site admin for "
+"assistance."
+msgstr ""
+
+#: sbchat.php:238
+msgid "Block User"
+msgstr ""
+
+#: sbchat.php:241
+msgid "Is User Blocked? This will block the user to send message"
+msgstr ""
+
+#: sbchat.php:244
+msgid "No"
+msgstr ""
+
+#: sbchat.php:245
+msgid "Yes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SB Chat"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SB Chat is a WordPress plugin based on Ajax based Chat system where buyers "
+"and seller can communicate with each other."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""
